@@ -1,0 +1,1 @@
+Azt az elsősegélynyújtó beavatkozást, amelyet akkor végzünk, amikor valakinek az alapvető életműködései (légzés, keringés) hirtelen megszűnnek, illetve fennáll a kockázata annak, hogy megszűnnek, életmentésnek nevezzük. Ezekben a helyzetekben az idő kritikus tényező.

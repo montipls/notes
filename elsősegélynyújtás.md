@@ -1,0 +1,1 @@
+Az elsősegélynyújtás azonnali segítségnyújtás egy beteg vagy sérült embernek a szaksegítség megérkezéséig. Célja az élet megmentése, a szenvedés enyhítése, a további betegség (állapotromlás) vagy sérülés megelőzése és a gyógyulás elősegítése.
