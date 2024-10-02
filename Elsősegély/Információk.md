@@ -9,3 +9,4 @@
 - Sikeres teljesítéshez min. 16p / 20p
 - Többször is kitölthető
 - Sikeres eredményt nem írja felül egy későbbi sikertelen eredmény
+- 
