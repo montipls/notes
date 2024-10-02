@@ -1,1 +1,4 @@
-| jfiajfiajfijaf |
+|                  | Pulzusszám /perc | Légzésszám /perc | Vérnyomás /Hgmm |
+| ---------------- | ---------------- | ---------------- | --------------- |
+| **Felnőtteknél** | 60-100           | 12-16            | 120/80          |
+| **Gyermekeknél** | 100-160          | 30-50            | 110/80          |
