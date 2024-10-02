@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elsősegély/Az elsősegélynyújtás alapjai/Alap fogalmak.md",
+                "file": "Elsősegély/Az elsősegélynyújtás alapjai/Az elsősegély láncolata.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Elsősegély/Az elsősegélynyújtás alapjai/Alap fogalmak.md",
+            "file": "Elsősegély/Az elsősegélynyújtás alapjai/Az elsősegély láncolata.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Elsősegély/Az elsősegélynyújtás alapjai/Alap fogalmak.md",
+            "file": "Elsősegély/Az elsősegélynyújtás alapjai/Az elsősegély láncolata.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Elsősegély/Az elsősegélynyújtás alapjai/Alap fogalmak.md"
+            "file": "Elsősegély/Az elsősegélynyújtás alapjai/Az elsősegély láncolata.md"
           }
         }
       }
@@ -160,8 +160,18 @@
   },
   "active": "148df0e55c332f77",
   "lastOpenFiles": [
-    "sérülés.md",
+    "/Elsősegély/Az elsősegélynyújtás alapjai/Az elsősegély láncolata.md",
+    "Elsősegély/Az elsősegélynyújtás alapjai/Helyzetfelismerés.md",
+    "Elsősegély/Az elsősegélynyújtás alapjai/Az elsősegély láncolata.md",
+    "Elsősegély/Az elsősegélynyújtás alapjai/Stresszkezelés.md",
+    "Elsősegély/Az elsősegélynyújtás alapjai/Átlagértékek.md",
+    "/Elsősegély/Információk.md",
+    "/Elsősegély/Az elsősegélynyújtás alapjai/Átlagértékek.md",
+    "/Elsősegély/Az elsősegélynyújtás alapjai/Stresszkezelés.md",
+    "/Elsősegély/Az elsősegélynyújtás alapjai/Helyzetfelismerés.md",
+    "/Elsősegély/Az elsősegélynyújtás alapjai/Alap fogalmak.md",
     "Elsősegély/Az elsősegélynyújtás alapjai/Alap fogalmak.md",
+    "sérülés.md",
     "Elsősegély/Információk.md",
     "Elsősegély",
     "életmentés.md",
@@ -180,20 +190,10 @@
     "Learning/Note taking.md",
     "european rabbit.md",
     "hello.md",
-    "Links.md",
-    "Learning/Obsidian.md",
-    "www.youtube.com.md",
-    "Templates/Daily Template.md",
     "Daily",
     "Finance",
     "Learning",
-    "To Do.md",
-    "Szamos.md",
-    "Finance.md",
     "Templates",
-    "daily/2024-08-12.md",
-    "daily/2024-08-13.md",
-    "daily/2024-08-14.md",
     "Trading",
     "Pasted image 20240813121824.png",
     "daily"
