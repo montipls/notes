@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "e130dd88e33cd718",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7341e28a6ffe21e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55cd31e9b67c5d01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Elsősegély/Információk.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "148df0e55c332f77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Elsősegély/Az elsősegélynyújtás alapjai/Alap fogalmak.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "660cf44f692ab3b6",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a63a841f4d5d9fd4",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "a3e6f3f691813e1a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#daily",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "15ddd1ee6ea09123",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "ff964ec7fbacd1ed",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "f3422913ebd92267",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "096a959a9897d0d5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "602fab71875bb91a",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Elsősegély/Az elsősegélynyújtás alapjai/Alap fogalmak.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": true,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "b8f9073c82a40038",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Elsősegély/Az elsősegélynyújtás alapjai/Alap fogalmak.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "de0a3cf4489e40f0",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Elsősegély/Az elsősegélynyújtás alapjai/Alap fogalmak.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "148df0e55c332f77",
+  "lastOpenFiles": [
+    "sérülés.md",
+    "Elsősegély/Az elsősegélynyújtás alapjai/Alap fogalmak.md",
+    "Elsősegély/Információk.md",
+    "Elsősegély",
+    "életmentés.md",
+    "Elsősegély/Az elsősegélynyújtás alapjai",
+    "elsősegélynyújtás.md",
+    "végén.md",
+    "Hogyan ügyelj a saját biztonságodra.md",
+    "Elsősegély/Képzésbevezető.md",
+    "KRESZ",
+    "Elsősegély",
+    "Daily/2024-09-30.md",
+    "Daily/2024-09-11.md",
+    "Daily/2024-09-03.md",
+    "Daily/2024-09-02.md",
+    "Daily/2024-09-01.md",
+    "Learning/Note taking.md",
+    "european rabbit.md",
+    "hello.md",
+    "Links.md",
+    "Learning/Obsidian.md",
+    "www.youtube.com.md",
+    "Templates/Daily Template.md",
+    "Daily",
+    "Finance",
+    "Learning",
+    "To Do.md",
+    "Szamos.md",
+    "Finance.md",
+    "Templates",
+    "daily/2024-08-12.md",
+    "daily/2024-08-13.md",
+    "daily/2024-08-14.md",
+    "Trading",
+    "Pasted image 20240813121824.png",
+    "daily"
+  ]
+}
